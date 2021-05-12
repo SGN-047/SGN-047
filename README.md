@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning machine learning and artificial intelligence, with application in science (aerospace, biotechnology etc...)
 - 💞️ I’m looking to collaborate on anything worthwhile
 - 📫 How to reach me :
-	Twitter -> @SGN_047
-	Discord -> SGN_047#6849
+	Twitter -> @SGN_047|
+	Discord -> SGN_047#6849|
 	E-Mail  -> astroganals@gmail.com 
 
 <!---
