@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning machine learning and artificial intelligence, with application in science (aerospace, biotechnology etc...)
 - 💞️ I’m looking to collaborate on anything worthwhile
 - 📫 How to reach me :
-            Twitter -> @SGN_047
-            Discord -> SGN_047#6849
-            E-Mail  -> astroganals@gmail.com 
+            -Twitter -> @SGN_047
+            -Discord -> SGN_047#6849
+            -E-Mail  -> astroganals@gmail.com 
 
 <!---
 SGN-047/SGN-047 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
