@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SGN-047
-- 👀 I’m interested in meeting and learning from talented, curious people.
+- 👀 I’m interested in meeting and learning from curious people.
 - 🌱 I’m currently learning machine learning and artificial intelligence, with application in science (aerospace, biotechnology etc...)
 - 💞️ I’m looking to collaborate on anything worthwhile
 - 📫 How to reach me :
